@@ -15,3 +15,6 @@ Integrations within AIOps monitoring tools facilitate more effective collaborati
 
 Predictive ITOPs management
 With built-in predictive analytics capabilities, AIOps platforms continuously learn to identify and prioritize the most urgent alert. This helps IT teams address potential problems before they lead to unplanned downtime, disruptions and service outages.
+
+Group the alerts – 
+for example, if the EHR system experiences a network outage that affects multiple servers and applications, AIOps groups all the alerts related to the network outage into one incident.
