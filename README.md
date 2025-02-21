@@ -18,3 +18,10 @@ With built-in predictive analytics capabilities, AIOps platforms continuously le
 
 Group the alerts – 
 for example, if the EHR system experiences a network outage that affects multiple servers and applications, AIOps groups all the alerts related to the network outage into one incident.
+
+TOOLS:
+
+Tool	Purpose	Use Case
+Scikit-learn	General-purpose ML	Anomaly detection, clustering
+TensorFlow/PyTorch	Deep learning	LSTM, Autoencoders for anomaly detection
+XGBoost/LightGBM	Gradient boosting	Predictive analytics
